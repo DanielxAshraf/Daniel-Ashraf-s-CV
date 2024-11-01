@@ -5,7 +5,7 @@ title: Daniel-Ashraf-s-CV
 
 # Daniel
 **Age**: 23  
-**Location**: Helwan, Egypt  
+**Location**: Shoubra, Egypt  
 **Email**: [daniel.ashraf.official@gmail.com](mailto:daniel.ashraf.official@gmail.com)  
 **Phone**: +201208250743  
 
